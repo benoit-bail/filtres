@@ -1,0 +1,40 @@
+body{
+    background: #f6f4d6;
+    text-align: center;
+}
+
+h1{
+    color: #100a69;
+    text-shadow: #100a69;
+}
+
+.bloc {
+    background: #000;
+    margin: auto;
+    width: 333px;
+}
+
+form{
+    background: rgb(189 181 181);
+    padding: 18px;
+    border: 5px solid #ccc;
+}
+
+input[type=submit] {
+    background-color: #515a52;
+    color: white;
+    padding: 14px 20px;
+    margin: 10px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+}
+
+input[type=search] {
+    color: rgb(10, 10, 87);
+    background: rgb(244, 248, 244);
+    padding: 14px 20px;
+    margin: 10px 0;
+    width: 100%;
+}
+
